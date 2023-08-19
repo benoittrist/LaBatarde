@@ -68,5 +68,7 @@ Project members:
 
 
 This application does not collect any data. 
+
 Therefore, we will not make any changes or updates to the privacy policy as we do not collect any data.
+
 The privacy policy comes into effect on August 19, 2023.
