@@ -1,4 +1,4 @@
-# LaBatarde
+# La Batârde
 La Batârde - Mobile Application
 
 ## Politique de Confidentialité de l'Application La Bâtarde
